@@ -1,6 +1,5 @@
 # software-security
-Software security Assigment -02
-What is OAuth2?
+Software security Assigment -02 - Simple web application with OAuth2.
 
 Since OAuth was developed as an authentication protocol, the end effect of each OAuth flow is that the app obtains an access token in order to enter or change a user's account. The access token itself contains no information about the recipient.
 This article discusses how to integrate single sign-on features with an existing Spring Boot web application using the OAuth2 Client library – enabling end users to connect using their own Google accounts rather than application-managed credentials.
