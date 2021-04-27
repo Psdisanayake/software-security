@@ -199,8 +199,8 @@ public class SoftwareSecurityApplication {
 
 Application.properties
 
-spring.security.oauth2.client.registration.google.client-id=596018951073-dtrb8q9kr71r1v5rrit0l31pqf0oqmq5.apps.googleusercontent.com
-spring.security.oauth2.client.registration.google.client-secret=N0381b_OEDur43Ew_c_zzC9B
+spring.security.oauth2.client.registration.google.client-id=<CLIENT ID>
+spring.security.oauth2.client.registration.google.client-secret=<SECRET>
 
 
 
